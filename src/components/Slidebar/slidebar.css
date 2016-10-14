@@ -1,0 +1,14 @@
+.root{
+  position: absolute;
+  padding: 0;
+  width:8rem;
+  top: 10px;
+  right: 5px;
+  background-color: #333;
+  color: #fff;
+}
+.item{
+  display: block;
+  text-align: center;
+  line-height: 1.8;
+}
